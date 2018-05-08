@@ -5,10 +5,7 @@
  */
 package vehicles;
 
-/**
- *
- * @author User
- */
+
 public class Driver {
 
     /**
